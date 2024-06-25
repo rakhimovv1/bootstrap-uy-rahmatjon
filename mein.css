@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-item img{
+    height: 80vh !important;
+}
+.k-main{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.text{
+    margin: 39px 0;
+    text-align: center;
+    h1{
+        font-size: 30px;
+    }
+}
+.btn{
+    margin: 25px 0px;
+    button{
+        padding: 12px 23px;
+        border: 1px solid green;
+        border-radius: 4px;
+        color: green;
+        background: transparent;
+        margin: 0 570px;
+    }
+}
+.h-main{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    justify-content: center;
+}
+.txt{
+    margin: 39px 0;
+    text-align: center;
+    h1{
+        font-size: 30px;
+    }
+    p{
+        font-size: 16px;
+    }
+}
+.r-main{
+    display: flex;
+    margin: 50px 0px;
+    justify-content: center;
+    .card{
+        border: none;
+    }
+}
+.but{
+    margin: 25px 0px;
+    text-align: center;
+    button{
+         padding: 12px 23px;
+         border: 1px solid green;
+         border-radius: 4px;
+         color: green;
+         background: transparent;
+    }
+}
+.title{
+    text-align: center;
+    h1{
+        font-size: 31px;
+    }
+    p{
+        font-size: 16px;
+    }
+}
+.k-main{
+    justify-content: center;
+    display: flex;
+    margin: 30px 0;
+    .cards{
+        width: 262.5px;
+        height: 562.5px;
+        text-align: center;
+        h3{
+            padding: 10px 10px;
+        }
+    }
+}
+.imag{
+    text-align: center;
+    img{
+        width: 100%;
+        height: 50vh;
+    }
+}
+.titl{
+    text-align: center;
+    margin: 30px 30px;
+    h1{
+        font-size: 37px;
+    }
+}
+.g-main{
+    margin: 30px 0;
+    display: flex;
+    justify-content: center;
+}
+.b-main{
+    display: flex;
+    align-items: center;
+    .taxt{
+        align-items: center;
+        display: flex;
+        gap: 30px;
+        p{
+            font-size: 14px;
+            margin: 10px 0;
+        }
+        a{
+            font-size: 14px;
+            text-decoration: none;
+            color: green;
+        }
+    }
+    .imags{
+        display: flex;
+        gap: 10px;
+    }
+}
